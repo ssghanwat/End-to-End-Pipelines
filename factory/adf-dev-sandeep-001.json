@@ -1,0 +1,9 @@
+{
+	"name": "adf-dev-sandeep-001",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "8c7666ed-c6ab-464b-b80d-8c6f797b0de0",
+		"tenantId": "74f4f85d-0c85-4fdc-89df-345d1737a9ed"
+	}
+}
